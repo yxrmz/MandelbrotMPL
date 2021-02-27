@@ -1,4 +1,4 @@
 # MandelbrotMPL
-Simple Mandelbrot visualizer based on matplotlib
+Simple Mandelbrot visualizer with python/matplotlib
 
-Base on codingame tutorial https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set
+Based on codingame tutorial https://www.codingame.com/playgrounds/2358/how-to-plot-the-mandelbrot-set
